@@ -45,8 +45,4 @@ http://localhost:5173/feedback/:reviewId
 
 ### Project Screenshot
 ![Reviews](./screenshots/Reviews.png)
-![No Pending Reviews](screenshots/No-Pending.png)
-![pending Reviews](screenshots/Pending-Review.png)
-![Submit Reviewws](screenshots/Submit-review.png)
-![Manage Review](screenshots/Manage-Employee.png)
-![Manage review](screenshots/Admin-panel.png)
+
