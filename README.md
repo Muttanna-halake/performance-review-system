@@ -21,6 +21,11 @@ This is a simple web application that allows employees to submit feedback for ot
 
 ### Project Screenshot
 ![Reviews](./screenshots/Reviews.png)
+![No Pending Reviews](./screenshots/No-Pending.png)
+![pending Reviews](./screenshots/Pending-Review.png)
+![Submit Reviewws](./screenshots/Submit-review.png)
+![Manage Review](./screenshots/Manage-Employee.png)
+![Manage review](./screenshots/Admin-panel.png)
 
 ## How to Run the Project
 
