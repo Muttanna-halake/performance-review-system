@@ -40,13 +40,13 @@ Open terminal inside backend folder:
 ```bash
 cd backend
 mvn spring-boot:run
-
+```
 ### 2) Run Frontend
-
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 ### Manage Employees
 http://localhost:5173/admin/employees
 http://localhost:5173/admin/reviews
