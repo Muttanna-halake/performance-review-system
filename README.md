@@ -49,11 +49,14 @@ npm run dev
 ```
 ### Manage Employees
 http://localhost:5173/admin/employees
+
 http://localhost:5173/admin/reviews
 
 ### Employee View
 http://localhost:5173/
+
 http://localhost:5173/reviews/:employeeId
+
 http://localhost:5173/feedback/:reviewId
 
 
