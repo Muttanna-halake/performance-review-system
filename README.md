@@ -19,6 +19,9 @@ This is a simple web application that allows employees to submit feedback for ot
 - View pending performance reviews assigned to them
 - Submit feedback for assigned reviews
 
+### Project Screenshot
+![Reviews](./screenshots/Reviews.png)
+
 ## How to Run the Project
 
 ### 1) Run Backend
@@ -43,6 +46,5 @@ http://localhost:5173/
 http://localhost:5173/reviews/:employeeId
 http://localhost:5173/feedback/:reviewId
 
-### Project Screenshot
-![Reviews](./screenshots/Reviews.png)
+
 
